@@ -34,3 +34,4 @@ def player_marker():
 
     # return marker1 and marker2 representing player1 and player2 respectively.
     return (marker1.upper(), marker2.upper())
+
